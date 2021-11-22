@@ -1,4 +1,4 @@
-```pyhton
+```python
 from bot import TemplateBot
 
 class SiteParser(TemplateBot):
